@@ -1,5 +1,5 @@
-class Addition{
-	static int add(double a, double b){
+public class Addition{
+	static double add(double a, double b){
 	return (a+b);
 	}
 }

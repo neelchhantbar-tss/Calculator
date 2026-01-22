@@ -1,7 +1,5 @@
-﻿class Subtraction{
-	public subtract(int number1,int number2)
-	{
-		retrun number1-number2;
+public class Subtraction{
+	public static double subtract(double a, double b){
+		return a-b;
 	}
 }
-
