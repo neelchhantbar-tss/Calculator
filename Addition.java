@@ -1,0 +1,5 @@
+class Addition{
+	static int add(double a, double b){
+	return (a+b);
+	}
+}
