@@ -20,16 +20,16 @@ public class Main{
 		int choice = sc.nextInt();
 		System.out.print("Ans: ");
 		if(choice == 1){
-			Addition.add(a, b);
+			System.out.print(Addition.add(a, b));
 		}
 		else if(choice == 2){
-			Subtraction.subtract(a, b);
+			System.out.print(Subtraction.subtract(a, b));
 		}
 		else if(choice == 3){
-			Multiplication.multiply(a, b);
+			System.out.print(Multiplication.multiply(a, b));
 		}
 		else if(choice == 4){
-			Division.divide(a, b);
+			System.out.print(Division.divide(a, b));
 		}
 
 	}
