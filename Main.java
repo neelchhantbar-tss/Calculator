@@ -7,7 +7,6 @@ public class Main{
 		System.out.print("Enter Two Numbers: ");
 		a = sc.nextDouble();
 		b = sc.nextDouble();
-
 		System.out.print("\nChoice of Operation: "+
 				"\n1. Addition" +
 				"\n2. Subtraction" +
